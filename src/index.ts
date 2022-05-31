@@ -1,3 +1,13 @@
-import { Num } from './Num'
+import {
+  isAppSyncIdentityLambda,
+  isAppSyncIdentityOIDC,
+  isCognitoAppsyncIdentity,
+  isIAMAppsyncIdentity,
+} from './AppSyncIdentity'
 
-export { Num }
+export {
+  isAppSyncIdentityLambda,
+  isAppSyncIdentityOIDC,
+  isCognitoAppsyncIdentity,
+  isIAMAppsyncIdentity,
+}
