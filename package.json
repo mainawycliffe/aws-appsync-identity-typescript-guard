@@ -1,6 +1,6 @@
 {
   "name": "aws-appsync-identity-typescript-guard",
-  "version": "1.0.0-0",
+  "version": "1.0.0",
   "description": "A typescript custom guard to check the AppSync Identity of a certain type",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
