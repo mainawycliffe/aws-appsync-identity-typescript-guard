@@ -19,7 +19,7 @@
     "package": "npm run build && npm pack",
     "test": "jest --no-cache --runInBand",
     "test:cov": "jest --coverage --no-cache --runInBand",
-    "addscope": "node tools/packagejson name @tomchen/example-typescript-package"
+    "addscope": "node tools/packagejson name @mainawycliffe/aws-appsync-identity-typescript-guard"
   },
   "publishConfig": {
     "access": "public"
@@ -35,7 +35,7 @@
     "npm",
     "package"
   ],
-  "author": "Tom Chen <tomchen.org@gmail.com>",
+  "author": "Maina Wycliffe <me@mainawycliffe.dev>",
   "license": "MIT",
   "homepage": "https://github.com/mainawycliffe/aws-appsync-identity-typescript-guard",
   "repository": {
