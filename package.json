@@ -40,7 +40,7 @@
   "homepage": "https://github.com/mainawycliffe/aws-appsync-identity-typescript-guard",
   "repository": {
     "type": "git",
-    "url": "git@github.com:github.com/mainawycliffe/aws-appsync-identity-typescript-guard.git"
+    "url": "git@github.com:mainawycliffe/aws-appsync-identity-typescript-guard.git"
   },
   "bugs": {
     "url": "https://github.com/mainawycliffe/aws-appsync-identity-typescript-guard/issues"
